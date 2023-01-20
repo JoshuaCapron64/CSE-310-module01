@@ -20,6 +20,7 @@ With this software, I am hoping to not only refresh my knowledge of C++, but als
 
 - [Visual Studio](https://code.visualstudio.com/docs/languages/cpp)
 - [MSYS2](https://www.msys2.org/)
+- [Microsoft] (https://learn.microsoft.com/en-us/cpp/cpp/primary-expressions?view=msvc-170)
 
 # Future Work
 
