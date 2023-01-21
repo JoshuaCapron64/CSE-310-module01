@@ -6,9 +6,7 @@ This software will act as a tutorial for users to learn about various modules th
 
 With this software, I am hoping to not only refresh my knowledge of C++, but also create a means by which I, or others can easily go back and learn or relearn these basics should the need arise.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=BpMRzz3X_To)
 
 # Development Environment
 
@@ -20,9 +18,9 @@ For this project, I relied entirely on the C++ programming language. I also impo
 
 - [Visual Studio](https://code.visualstudio.com/docs/languages/cpp)
 - [MSYS2](https://www.msys2.org/)
-- [Microsoft] (https://learn.microsoft.com/en-us/cpp/cpp/primary-expressions?view=msvc-170)
-- [W3_Schools] (https://www.w3schools.com/cpp/cpp_classes.asp)
-- [Geeks_For_Geeks] (https://www.geeksforgeeks.org/list-cpp-stl/)
+- [Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/primary-expressions?view=msvc-170)
+- [W3 Schools](https://www.w3schools.com/cpp/cpp_classes.asp)
+- [Geeks For Geeks](https://www.geeksforgeeks.org/list-cpp-stl/)
 
 # Future Work
 
